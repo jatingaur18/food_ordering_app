@@ -2,6 +2,7 @@
 
 
  with Python and Tkinter
+ This is a simple food ordering app built using Python and the Tkinter library. The app allows users to browse a menu, select items, and place an order. It also has an admin section for managing staff and dishes.
 
 ## Installation
 
